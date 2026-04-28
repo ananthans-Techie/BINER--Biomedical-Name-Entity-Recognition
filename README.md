@@ -133,7 +133,7 @@ python predict.py
 
 
 ### Project Structure
-
+```bash
 ├── data/
 ├── preprocessing/
 ├── models/
@@ -142,6 +142,7 @@ python predict.py
 ├── app/
 ├── requirements.txt
 └── README.md
+```
 
 ### Applications
 - Clinical text analysis
